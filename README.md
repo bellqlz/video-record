@@ -1,2 +1,2 @@
 # video-record
-creat to record video
+create to record video
